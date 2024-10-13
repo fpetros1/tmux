@@ -1,3 +1,6 @@
 [submodule "plugins/catppuccin"]
 	path = plugins/catppuccin
 	url = git@github.com:fpetros1/catppuccin-tmux.git
+[submodule "plugins/tmux-fzf-session-switch"]
+	path = plugins/tmux-fzf-session-switch
+	url = https://github.com/brokenricefilms/tmux-fzf-session-switch
